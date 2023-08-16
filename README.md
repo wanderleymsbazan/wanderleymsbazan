@@ -17,7 +17,5 @@
   <a href = "mailto:wanderleybazan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wanderley-bazan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<div>
-  <img src="stats.gif" width="90%"><br/><br/>
- </div>
+
 
