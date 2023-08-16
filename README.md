@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wanderley 👋
 
-- 🔭 Atualmente trabalho como Gestor financeiro.
+- 🔭 Atualmente trabalho como Analista de Custos (construção Civil).
 - 🌱 Estou estudando front-end.
 - 📫 Contate-me no email: wanderleybazan@gmail.com
 - 😄 Pronouns: ele/dele
