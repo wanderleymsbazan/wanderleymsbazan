@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como Gestor financeiro.
 - 🌱 Estou estudando front-end.
-- 🤔 Estou procurando ajuda com HTML, CSS, JavaScript.
 - 📫 Contate-me no email: wanderleybazan@gmail.com
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block"><br>
